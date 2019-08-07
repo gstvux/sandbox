@@ -1,0 +1,23 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Ambiente de teste",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavaum/sandbox.git"
+  },
+  "author": "@gustavaum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavaum/sandbox/issues"
+  },
+  "homepage": "https://github.com/gustavaum/sandbox#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
